@@ -1,8 +1,8 @@
-# AddonName Mirror
+# Easy Delete Mirror
 
-This is a mirror of AuthorName's AddonName
+This is a mirror of Xibate's Easy Delete
 
-- [Curseforge URL](https://www.curseforge.com/wow/addons/addonname)
+- [Curseforge URL](https://www.curseforge.com/wow/addons/easy-delete)
 
 ----
 
